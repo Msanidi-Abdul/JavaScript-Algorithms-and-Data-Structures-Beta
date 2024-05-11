@@ -19,4 +19,5 @@ The Cash Register Project calculates the change due to customers after a purchas
 
 ---
 
-**Note**: Each project includes HTML, CSS, and JavaScript files. Ensure all files are present and linked correctly for the projects to work as expected.
+**Certification:**
+[JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/AhmedAbdul/javascript-algorithms-and-data-structures-v8)
